@@ -1,13 +1,17 @@
-# Kagil BOT
+# Kaggle BOT
 
 # Overview
 Kaggle Bot is an AI-powered application that allows users to fetch data from Kaggle competitions, store it in a FAISS database, and retrieve relevant context for query-based interactions with a Large Language Model (LLM). The project is built using LangChain, FAISS, Llama.cpp, FastAPI, and Streamlit.
 
 <br style=“line-height:10;”> 
 
-![Screenshot (84)](https://github.com/kaoutaar/KaggleBOT/assets/51215027/09618c90-4c2d-4d02-bdf6-cd37e6150260)
+![Image-0](https://github.com/user-attachments/assets/81e996a4-300f-47ab-9a88-326d8293072f)
 
-![Screenshot (87)](https://github.com/kaoutaar/KaggleBOT/assets/51215027/0b85ff7f-57de-415d-9d87-09f6cf75dbfa)
+
+![Image-1](https://github.com/user-attachments/assets/9602cb2d-411c-4ce4-8f9b-07d77b16140a)
+
+
+
 
 
 <br style=“line-height:10;”> 
